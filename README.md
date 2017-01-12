@@ -1,1 +1,3 @@
-# DataStructure
+# 数据结构算法总结
+总结一些常见算法，对应名字的md文件为开发文档。代码用的c语言，Xcode编译 [博客主页](http://blog.csdn.net/m0_37298991)
+

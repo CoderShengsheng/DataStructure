@@ -25,7 +25,7 @@ void traverse(int t)   //递归遍历
 {
     if (t>num)  //递归跳出条件
     {
-      sum++;   //解发加一
+      sum++;   //解法加一
     }
     
     
